@@ -4,8 +4,8 @@ A functional and fully automated Library Management System using Mysql and Conce
 
 Prerequisites
 * Python 3.5 or above.
-* Mysql server installed in the system. (if not installed https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing!).
-* Mysql workbench (if not installed https://dev.mysql.com/downloads/workbench/!).
+* Mysql server installed in the system. (if not installed https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing).
+* Mysql workbench (if not installed https://dev.mysql.com/downloads/workbench/).
 * Mysql connector(if not installed use command **pip install mysql-connector-python**.)
 
 
