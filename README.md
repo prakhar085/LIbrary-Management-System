@@ -22,7 +22,7 @@ Note: Here have used the password of my local sql server in home.py(line 8), You
 
 
 
-Format: ![Alt Text](https://drive.google.com/file/d/12VarkOrB-l5ySY2rRJSawt_XdIMAyf3Q/view?usp=sharing)
+
 
 
 
