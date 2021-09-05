@@ -5,7 +5,7 @@ import lib_users
 lib_database = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="PRA085@dik",
+    password="PRA085@dik", #User your server password.
     database='library_management_system',
 )
 ##creating tables..
